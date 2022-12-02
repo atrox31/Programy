@@ -5,7 +5,7 @@
 Program do zliczania gotówki.
 ### LOKAL2
 Program do zgrywania danych z kart pamięci
-###LTR_ST
+### LTR_ST
 Program do przeprowadzania inwentaryzacj środków trwałych
 ## Pozostałe
 ###PianoBOt
