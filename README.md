@@ -1,7 +1,7 @@
 # Programy
  Kilka programów, bo nie napisałem tylko samych gier
 ## Programy użytkowe, pomagające w pracy (w pewnej firmie)
-###CashCounter
+### CashCounter
 Program do zliczania gotówki.
 ### LOKAL2
 Program do zgrywania danych z kart pamięci
