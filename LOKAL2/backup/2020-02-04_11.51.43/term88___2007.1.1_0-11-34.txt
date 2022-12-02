@@ -1,0 +1,3 @@
+400041273-0	bd	103446		1.000	88		0.000									follett	szafa ch³odnicza					
+400041290-0	bd	103446		1.000	88		0.000									brak logo	monitor na menu	3 sztuki				
+400041271-0		103446		1.000	88		0.000										prasa do odpadów					

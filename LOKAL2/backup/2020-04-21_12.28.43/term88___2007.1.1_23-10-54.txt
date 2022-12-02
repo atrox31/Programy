@@ -1,0 +1,10 @@
+2192160		PLB230		7.000	88		0.000									99	REGAL PODWOJ. BRAZ. 1400X1000					
+2192160-1		PLB230		3.000	88		0.000										REGAL PODWOJ. BRAZ. 1400X1000					
+2161186		PLB230		2.000	88		0.000										Stojak na 3 rowery					
+2163237		PLB230		1.000	88		0.000										Szafka pod koszyk z szufla	SKLEP				
+2163242		PLB230		1.000	88		0.000										Szafka z komora towarowa	SKLEP				
+1108238	E12I24404	PLB230		1.000	88		0.000										Czytnik kod.kres.HeronD130+kab	SKLEP				
+1126146	V1F8106	PLB230		1.000	88		0.000										Lenovo LT1953 monitor	SKLEP				
+1099472	1S3664BP1S4NFCX7	PLB230		1.000	88		0.000										Komputer TC M72e	SKLEP				
+2202529		PLB230		1.000	88		0.000										Szafka pod wage	SKLEP				
+2192178	128523/16	PLB230		1.000	88		0.000										Lada chlodn.Elegant RDE-0.9-02	SKLEP				

@@ -1,0 +1,22 @@
+2163243		PLB230		1.000	88		0.000										Boks kasowy COP 4/B +SZUF	SKLEP				
+1163652	16325658	PLB230		1.000	88		0.000										Waga DIGI SM5100+WiFi	ZAPLECZE				
+2163244		PLB230		1.000	88		0.000										Boks kasowy LEWY					
+2177701		PLB230		6.000	88		0.000										Krzeslo kasowe Practik					
+2192157		PLB230		1.000	88		0.000										Lawka do szatni (120x40cm)					
+2161183		PLB230		5.000	88		0.000										Regal pieczywo					
+2163230		PLB230		2.000	88		0.000										Regal pod kwiaty 3-poz+wiaderk					
+2196386		PLB230		1.000	88		0.000									NN	Stojak  maly na pojemniki	SKLEP				
+2196387		PLB230		3.000	88		0.000									NN	Stojak 1-komorowy	SKLEP				
+2163219		PLB230		1.000	88		0.000										Stojak na butelki					
+2171846		PLB230		1.000	88		0.000										Stojak na ulotki					
+2163234		PLB230		1.000	88		0.000										Szafka kasowa 52cm					
+2163999		PLB230		1.000	88		0.000										Szafka na papierosy					
+2164000		PLB230		1.000	88		0.000										Szafka na papierosy					
+2163235		PLB230		1.000	88		0.000										Szafka narozna					
+2184413		PLB230		1.000	88		0.000										TABORET TAPICEROWANY					
+2184413-1		PLB230		1.000	88		0.000										Taboret tapicerowany z dostaw					
+1163650	16325654	PLB230		1.000	88		0.000										Waga DIGI SM5100+WiFi					
+2163296		PLB230		2.000	88		0.000										WOZEK BASIC GS 20 S4 1150x525m					
+2177326		PLB230		5.000	88		0.000										Wozek transportowy MSC2-800x6					
+2202743		PLB230		2.000	88		0.000										Wozek transportowy ze stali ni					
+2161188		PLB230		5.000	88		0.000										Wozek pod koszyki					

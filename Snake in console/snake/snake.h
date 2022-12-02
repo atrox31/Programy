@@ -1,0 +1,3 @@
+/*
+	Globalne zmienne
+*/

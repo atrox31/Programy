@@ -1,0 +1,6 @@
+1100634	1234930762	PLB230		1.000	88		0.000										DOK	BIURO KIERO				
+1209146	1234930794	PLB230		1.000	88		0.000									NN	Dok do HoneyWell Scanpal5100	POM. KASOWE				
+2163236		PLB230		1.000	88		0.000										Szafka ochrony polokragla					
+2163221		PLB230		23.000	88		0.000										Wozek Rabtrolley 80L zielony					
+2161187		PLB230		13.000	88		0.000										Wozek pod 2 koszyki klientows					
+2163227		PLB230		3.000	88		0.000										Regal na prase plyta fornir					

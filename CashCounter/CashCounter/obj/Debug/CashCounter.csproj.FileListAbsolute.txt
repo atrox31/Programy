@@ -1,0 +1,17 @@
+D:\projekt\CashCounter\CashCounter\bin\Debug\CashCounter.exe.config
+D:\projekt\CashCounter\CashCounter\bin\Debug\CashCounter.exe
+D:\projekt\CashCounter\CashCounter\bin\Debug\CashCounter.pdb
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.csprojAssemblyReference.cache
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.appStarter.resources
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.Form1.resources
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.Properties.Resources.resources
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.csproj.GenerateResource.cache
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.csproj.CoreCompileInputs.cache
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.exe
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.pdb
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.appTable.resources
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.newName.resources
+D:\projekt\CashCounter\CashCounter\bin\Debug\CashCounter.exe.manifest
+D:\projekt\CashCounter\CashCounter\bin\Debug\CashCounter.application
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.exe.manifest
+D:\projekt\CashCounter\CashCounter\obj\Debug\CashCounter.application

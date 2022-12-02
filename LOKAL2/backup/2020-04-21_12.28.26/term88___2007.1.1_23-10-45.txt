@@ -1,0 +1,5 @@
+1201699	SN5310154156	PLB230		1.000	88		0.000										Wincor iScan Easy					
+1201713	SN5310154542	PLB230		1.000	88		0.000										Wincor iScan Easy					
+1201698	SN5310154146	PLB230		1.000	88		0.000										Wincor iScan Easy					
+1201712	SN5310154536	PLB230		1.000	88		0.000										Wincor iScan Easy					
+1208907	0761H4FJB01936B	PLB230		1.000	88		0.000										Samsung LH22DBDPSGC + licencj					

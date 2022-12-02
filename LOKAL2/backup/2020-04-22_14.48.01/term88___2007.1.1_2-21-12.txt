@@ -1,0 +1,30 @@
+2202444		PLB229		1.000	88		0.000										Szafka pod wage	KASY				
+2162671		PLB229		3.000	88		0.000										Taboret tapicerowany	KASY				
+2162115		PLB229		10.000	88		0.000										Wozek pod 2 koszyki, Express	KASY				
+2162116		PLB229		6.000	88		0.000										Wozek transp. koszyki reczne	KASY				
+2162579		PLB229		5.000	88		0.000										Wozek Rabtrolley 80L zielony	KASY				
+2191471	160.856	PLB229		1.000	88		0.000										Wyciskarka do soku Fantastic	KASY				
+2191495		PLB229		2.000	88		0.000									25	REGAL SKLEP. PODW. 1400X1000	SKLEP				
+2191494		PLB229		2.000	88		0.000									25	REGAL SKLEP. PODW. 2000X1000	SKLEP				
+2191493		PLB229		12.000	88		0.000									215	REGAL SKLEP. PODW. 2000X1330	SKLEP				
+2191489		PLB229		5.000	88		0.000									32	REGAL SKLEP. POJED. 2000X1330	SKLEP				
+2191491		PLB229		1.000	88		0.000									10	REGAL SKLEP. POJED. 2200X600	SKLEP				
+2191488		PLB229		8.000	88		0.000									57	REGAL SKLEP. POJED. 2200X1330	SKLEP				
+2191496		PLB229		4.000	88		0.000									40	REGAL SKLEP. POJED. 2200X800	SKLEP				
+2191496-1		PLB229		2.000	88		0.000										2200X800	SKLEP				
+2199002		PLB229		8.000	88		0.000									59	REGAL TG 2000X800	SKLEP				
+2202367		PLB229		8.000	88		0.000										Regal gondola H-1400	SKLEP				
+2196390		PLB229		2.000	88		0.000									12	REGAL TG 1400X1000	SKLEP				
+2196389		PLB229		1.000	88		0.000									8	REGAL TG 2000X1000	SKLEP				
+2162113		PLB229		25.000	88		0.000										Ekspozytor Sanki grafit+elemen	SKLEP				
+2162113-1		PLB229		12.000	88		0.000										EKSPOZYTOR SANKI	SKLEP				
+2161733		PLB229		39.000	88		0.000										Szafka stockowa 133 x 50 x 47	SKLEP				
+2161733-1		PLB229		9.000	88		0.000										800	SKLEP				
+2161733-2		PLB229		6.000	88		0.000										1000	SKLEP				
+2162218		PLB229		1.000	88		0.000										Regal na bagietke L-50	SKLEP				
+2162220		PLB229		2.000	88		0.000										Regal piekarn. z drzw.szkl.+ko	SKLEP				
+2162221		PLB229		3.000	88		0.000										Regal piekarniczy otwarty+kosz	SKLEP				
+2162222		PLB229		1.000	88		0.000										Stol na kajzerka obudowan	SKLEP				
+2162114		PLB229		1.000	88		0.000										Stojak na 3 rowery grafit	SKLEP				
+2196391		PLB229		1.000	88		0.000									NN	Stojak  maly na pojemniki	SKLEP				
+2196392		PLB229		2.000	88		0.000									NN	Stojak 1-komorowy	SKLEP				

@@ -1,0 +1,9 @@
+katalog_local=Wyeksp	#Katalog na karcie z plikami local. Sama nazwa bez œcie¿ki karty karty np. 'F:/Wyeksp/ -> Wyeksp'!
+katalog_docelowy=C:/inwent/Input/	#Katalog na dysku twardym gdzie ma siê lokal kopiowac. Tu juz wa¿na jest DOK£ADNA œcie¿ka!
+katalog_kopia_zapasowa=backup/	#Katalog z plikami zapasowymi, kazdy backup sk³ada sie z daty i godziny.
+kasuj_lokala=true	#Ustala czy plik z karty ma byc skasowany, spokojnie najpierw jest kopiowany i backupowany potem kasowany!
+bezpiecznie_usuwaj=false	#Jezeli obawiasz sie o bezpieczeñstwo usuwa bezpiecznie karte pamieci, niepotrzebne i wymaga dodatkowego pliku.
+pokaz_info=true	#Pokazuje komunikaty, powodzenia i pora¿ki. WSKAZANA OPCJA!
+weryfikuj_pliki=true	#Weryfikuje pliki po skopiowaniu, zabiera 0.5 sec ale warto, tak na wszelki wypadek.
+konsola_output=false	#Do testowania, zostawiæ na false. Wypluwa komunikaty co robi do pliku.
+kopia_zapasowa=true	#Tworzy kopie zapasowa ka¿dego skopiowanego backupu.

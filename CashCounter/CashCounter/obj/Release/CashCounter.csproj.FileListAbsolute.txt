@@ -1,0 +1,17 @@
+D:\projekt\CashCounter\CashCounter\bin\Release\CashCounter.exe.config
+D:\projekt\CashCounter\CashCounter\bin\Release\CashCounter.exe
+D:\projekt\CashCounter\CashCounter\bin\Release\CashCounter.pdb
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.appStarter.resources
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.appTable.resources
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.Form1.resources
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.Properties.Resources.resources
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.csproj.GenerateResource.cache
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.csproj.CoreCompileInputs.cache
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.exe
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.pdb
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.newName.resources
+D:\projekt\CashCounter\CashCounter\bin\Release\CashCounter.exe.manifest
+D:\projekt\CashCounter\CashCounter\bin\Release\CashCounter.application
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.csprojAssemblyReference.cache
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.exe.manifest
+D:\projekt\CashCounter\CashCounter\obj\Release\CashCounter.application
