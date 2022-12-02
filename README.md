@@ -8,7 +8,7 @@ Program do zgrywania danych z kart pamięci
 ### LTR_ST
 Program do przeprowadzania inwentaryzacj środków trwałych
 ## Pozostałe
-###PianoBOt
+### PianooOt
 Bot do gier typu Pianotiles, ustawiasz punkty gdzie ma szukać kafelków, odpalasz i samo się przechodzi
-###Snake in console
+### Snake in console
 Klasyka gatunku, każdy napisał snake w konsoli
